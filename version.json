@@ -1,5 +1,5 @@
 {
-  "version": "4.3.0",
-  "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v4.3.0/version.zip",
-  "changelog": "1. Added Video Downloader - 2. Fixed bugs"
+  "version": "4.3.1",
+  "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v4.3.1/version.zip",
+  "changelog": "1. Fixed video merging error / 2. Fixed some bugs"
 }
