@@ -1,5 +1,5 @@
 {
-  "version": "5.0.1",
-  "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.0.1/version.zip",
-  "changelog": "- ( Detection ) Block sensitive keywords/images from users"
+  "version": "5.0.2",
+  "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.0.2/version.zip",
+  "changelog": "- ( Detection ) Block sensitive keywords/images from users | Fixed send data"
 }
