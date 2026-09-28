@@ -1,5 +1,5 @@
 {
   "version": "5.0.1",
   "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.0.1/version.zip",
-  "changelog": "- Auto bot has been upgraded"
+  "changelog": "- ( Detection ) Block sensitive keywords/images from users"
 }
