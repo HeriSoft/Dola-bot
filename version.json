@@ -1,5 +1,7 @@
 {
-  "version": "5.0.8",
-  "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.0.8/version.zip",
-  "changelog": "- Fixed bot auto-reload"
+  "version": "5.0.9",
+  "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.0.9/version.zip",
+  "download_url_win": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.0.9/version.zip",
+  "download_url_mac": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.0.9/version-mac.zip",
+  "changelog": "- Multi-platform support for Windows & macOS\n- Upgrade anti-cookie splash\n- Optimize automatic updates"
 }
