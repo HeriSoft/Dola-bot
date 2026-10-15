@@ -1,7 +1,7 @@
 {
-  "version": "5.1.1",
-  "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.1.1/version-win.zip",
-  "download_url_win": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.1.1/version-win.zip",
-  "download_url_mac": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.1.1/version-mac.zip",
-  "changelog": "- Fixed macOS: Chromium bugs"
+  "version": "5.1.2",
+  "download_url": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.1.2/version-win.zip",
+  "download_url_win": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.1.2/version-win.zip",
+  "download_url_mac": "https://github.com/HeriSoft/Dola-bot/releases/download/v5.1.2/version-mac.zip",
+  "changelog": "- Fixed macOS getting stuck in the video creation process/n - Increased bot waiting time to 2 hours"
 }
